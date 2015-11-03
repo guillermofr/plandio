@@ -9,8 +9,7 @@ Features
 ---
 - Based on Timber library. 
 - Uses Bootstrap and is responsive 
-- Uses Less 
-- Uses lessphp compiler
+- Uses css
 
 Theme Prerequisites
 ---
